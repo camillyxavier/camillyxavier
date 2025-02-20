@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**camillyxavier/camillyxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**camillyxavier/camillyxavier**
 
 
 - sou estudade do 3 ano do encino medio
