@@ -1,10 +1,23 @@
-## oii👋
+👋 Olá, meu nome e camilly.
 
-**camillyxavier/camillyxavier**
+🎓 Atualmente curso "Técnico em Desenvolvimento de Sistemas"  
+💼 Em busca da "minha primeira oportunidade na área de tecnologia"  
+📚 Sempre aprendendo e explorando novas ferramentas  
 
+## Tecnologias que estou estudando
+- Linguagens:  
+- Front-end: 
+- Back-end:  
+- Ferramentas:  
 
-- sou estudade do 3 ano do encino medio.
-- 📝ja fiz curso de informatica no senai.
-- 🖤 estou começando a conhecer agora a area de desenvolvimento de sistema.
-- tenho 17 ano nasci no mes de novembro.
+## Sobre mim
+Tenho "17 anos".  
+Gosto de aprender coisas novas e colocar em prática.  
+Meu objetivo é aprender mais sobre a área da tecnologia a cada dia.
+E estou sempre curioso para aprender algo novo. 
+
+---
+
+## Como me encontrar
+- 📧 Email: xcamilly6@gmail.com
   
