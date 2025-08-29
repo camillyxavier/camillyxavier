@@ -14,10 +14,7 @@
 Tenho "17 anos".  
 Gosto de aprender coisas novas e colocar em prática.  
 Meu objetivo é aprender mais sobre a área da tecnologia a cada dia.
-E estou sempre curioso para aprender algo novo. 
-
----
-
+ 
 ## Como me encontrar
 - 📧 Email: xcamilly6@gmail.com
   
