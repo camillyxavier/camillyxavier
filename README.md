@@ -1,4 +1,4 @@
-👋 Olá, meu nome e camilly.
+##👋 Olá, meu nome e camilly.
 
 🎓 Atualmente curso "Técnico em Desenvolvimento de Sistemas"  
 💼 Em busca da "minha primeira oportunidade na área de tecnologia"  
